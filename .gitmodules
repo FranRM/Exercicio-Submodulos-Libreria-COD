@@ -1,3 +1,6 @@
 [submodule "lib"]
 	path = lib
 	url = https://github.com/damiannogueiras/MiLibreria.git
+[submodule "mylib"]
+	path = mylib
+	url = https://github.com/FranRM/Omnitool.git
